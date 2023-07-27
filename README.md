@@ -3,7 +3,7 @@ The Last Light
 Installation Instructions¬ (Windows/Mac OS/Linux)
 
 
-i.	Download the zip file “Final Build Test” from the google drive link
+i.	Download the zip file “The Last Light” from the google drive link
  (https://drive.google.com/file/d/1mAfPmy-BZvU6UyPT8pyuw_xxaBArN4za/view?usp=sharing)
 
 ii.	Unzip the downloaded file
