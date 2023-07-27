@@ -6,19 +6,28 @@ i.	Download the zip file “Final Build Test” from the google drive link
  (https://drive.google.com/file/d/1yfBb1TX9E9r8OZgA3oaF2Bjjzdstkw4Y/view?usp=share_link)
 
 ii.	Unzip the downloaded file
+
 iii.	Run the “The Last FF” application on your device
 
 
 Game Controls:
+
 Left/Right Arrow – Move Around
+
 Up Arrow – Jump
+
 Z – Bow Attack
+
 X – Sword Attack / Slash
 
 Rules:
+
 The game contains mostly 3 game modes 
+
 i)	Story Mode
+
 ii)	Survival Mode
+
 iii)	Zen Mode
 
 
