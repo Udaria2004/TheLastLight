@@ -1,4 +1,4 @@
-# **The Last Light **
+# The Last Light 
 
 Installation Instructions¬ (Windows/Mac OS/Linux)
 
