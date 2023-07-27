@@ -2,7 +2,7 @@
 
 
 
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1wJnLkPhpSURqXakoQWjACF1QPn1FXg5r/view?usp=sharing)](https://www.youtube.com/watch?v=THoo8PgohL4)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=THoo8PgohL4/0.jpg)](https://www.youtube.com/watch?v=THoo8PgohL4)
 
 Installation Instructions¬ (Windows/Mac OS/Linux)
 
