@@ -2,7 +2,7 @@
 
 
 
-[![The Last Light Trailer](https://www.youtube.com/watch?v=THoo8PgohL4/0.jpg)](https://www.youtube.com/watch?v=THoo8PgohL4)
+[![The Last Light Trailer](https://www.deviantart.com/udaria/art/The-Last-Light-Poster-Final-973968790)](https://www.youtube.com/watch?v=THoo8PgohL4)
 
 Installation Instructions¬ (Windows/Mac OS/Linux)
 
