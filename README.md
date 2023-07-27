@@ -1,4 +1,5 @@
 The Last Light 
+
 Installation Instructions¬ (Windows/Mac OS/Linux)
 
 
@@ -9,6 +10,7 @@ ii.	Unzip the downloaded file
 
 iii.	Run the “The Last FF” application on your device
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Game Controls:
 
@@ -19,6 +21,8 @@ Up Arrow – Jump
 Z – Bow Attack
 
 X – Sword Attack / Slash
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Rules:
 
@@ -32,9 +36,7 @@ iii)	Zen Mode
 
 
 
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Story Mode
 
@@ -43,15 +45,21 @@ Cutscenes loading time will depend on computer to computer (Longer loading time 
 You have to keep moving forward in the level to complete it and learn from dying.
 If you die, you respawn from level 1
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Survival Mode
 
 You are stuck in between 2 hordes of monster who are spawning in through a portal. You have to see for how long you can survive for.
 You lose if your health bar goes to 0.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Zen Mode
 
 You get to experience the beauty of the game without any monsters, distracting UI with harmonizing music playing in the background.
 To leave this mode, you have to press Escape (3 times) and go back to the main Menu
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Controls
 
