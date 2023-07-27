@@ -4,7 +4,7 @@ Installation Instructions¬ (Windows/Mac OS/Linux)
 
 
 i.	Download the zip file “Final Build Test” from the google drive link
- (https://drive.google.com/file/d/1yfBb1TX9E9r8OZgA3oaF2Bjjzdstkw4Y/view?usp=share_link)
+ (https://drive.google.com/file/d/1mAfPmy-BZvU6UyPT8pyuw_xxaBArN4za/view?usp=sharing)
 
 ii.	Unzip the downloaded file
 
