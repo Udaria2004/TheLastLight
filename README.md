@@ -4,7 +4,8 @@ Installation Instructions¬ (Windows/Mac OS/Linux)
 
 
 i.	Download the zip file “The Last Light” from the google drive link
- (https://drive.google.com/file/d/1mAfPmy-BZvU6UyPT8pyuw_xxaBArN4za/view?usp=sharing)
+
+ (https://drive.google.com/file/d/1S_pE87ob0od6oBSAAdDZEA8j-PwhE5px/view?usp=sharing)
 
 ii.	Unzip the downloaded file
 
